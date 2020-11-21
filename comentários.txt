@@ -1,0 +1,13 @@
+
+Essa é uma estrutura que eu uso a bastante tempo, claro que com algumas adaptações.
+
+No caso eu utilizei de libs bootstrap e também o owl-carousel. Utilizei o Owl para criar os "stagepaddings" 
+para fazer o efeito de scroll ficar bem legal, sem usar um "overflow: scroll".
+
+Qualquer outra dúvida que surgir a respeito de qualquer parte do código, podemos conversar =D.
+
+Tempo utilizado para desenvolvimento: 04:22.
+
+obs: deixei o sql disponivel pra importar.
+
+Att, Matheus Fonseca.
